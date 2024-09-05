@@ -13,9 +13,6 @@
 
 # 📁 Projekte:
 
-- **HTML Projekt**<br>
-  --> [Möckmühler Feuerwerke](https://github.com/Davide131297/Feuerwerk-Website/tree/main)
-
 - **REACT**<br>
   --> [Wetter-Projekt](https://github.com/Davide131297/wetter-projekt)<br>
   --> [F1 Gaming Liga Managment](https://github.com/Davide131297/ligabot-web)
