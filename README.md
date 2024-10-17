@@ -10,9 +10,3 @@
 [![](https://visitcount.itsvg.in/api?id=Davide131297&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# 📁 Projekte:
-
-- **REACT**<br>
-  --> [Wetter-Projekt](https://github.com/Davide131297/wetter-projekt)<br>
-  --> [F1 Gaming Liga Managment](https://github.com/Davide131297/ligabot-web)
