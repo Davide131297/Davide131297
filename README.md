@@ -1,7 +1,7 @@
 # 👋 Hallo, ich bin Davide
 
 ## 🌟 Über mich
-Ich bin ein leidenschaftlicher Entwickler mit Fokus auf Web Entwicklung.
+Ich studiere Softwareentwicklung und bin ein leidenschaftlicher Entwickler mit Fokus auf Web Entwicklung.
 ## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) <img src="https://firebase.google.com/images/lockup.svg" width="200" height="28">
