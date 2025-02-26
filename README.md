@@ -22,6 +22,7 @@ Ich studiere Softwareentwicklung und bin ein leidenschaftlicher Entwickler mit F
 - [Feuerwerke Webseite](https://github.com/Davide131297/Feuerwerk-Website)
 - [Wetter Webseite](https://github.com/Davide131297/wetter-projekt)
 - [F1 Liga Verwaltungswebseite](https://github.com/Davide131297/ligabot-web)
+- [Java Webentwicklung mit JSF](https://github.com/Davide131297/Fallstudie_IPWA02-01)
 
 ## Kontakt
 
