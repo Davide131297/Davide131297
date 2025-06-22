@@ -18,8 +18,7 @@ Ich studiere Softwareentwicklung und bin ein leidenschaftlicher Entwickler mit F
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davide131297&show_icons=true) ![Davide131297's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davide131297&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 Meine Projekte
-- [Pressemitteilungsportal das Pressemitteilungen aus unterschiedlichen Quellen bezieht. Sowie eine Newsseite mit aktuellen Artikeln und eine Umfragenseite](https://github.com/Davide131297/new-pressemitteilungen-next)
-- [Feuerwerke Webseite](https://github.com/Davide131297/Feuerwerk-Website)
+- [Pressemitteilungsportal](https://github.com/Davide131297/new-pressemitteilungen-next)
 - [Wetter Webseite](https://github.com/Davide131297/wetter-projekt)
 - [F1 Liga Verwaltungswebseite](https://github.com/Davide131297/ligabot-web)
 - [Java Webentwicklung mit JSF](https://github.com/Davide131297/Fallstudie_IPWA02-01)
