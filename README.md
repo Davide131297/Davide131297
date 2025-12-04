@@ -18,6 +18,7 @@ Ich studiere Softwareentwicklung und bin ein leidenschaftlicher Entwickler mit F
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davide131297&show_icons=true) ![Davide131297's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davide131297&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 Meine Projekte
+- [Polittalk-Watcher](https://github.com/Davide131297/tv)
 - [Pressemitteilungsportal](https://github.com/Davide131297/new-pressemitteilungen-next)
 - [Wetter Webseite](https://github.com/Davide131297/wetter-projekt)
 - [F1 Liga Verwaltungswebseite](https://github.com/Davide131297/ligabot-web)
@@ -27,6 +28,7 @@ Ich studiere Softwareentwicklung und bin ein leidenschaftlicher Entwickler mit F
 ## Kontakt
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  [Mein Profil](https://www.linkedin.com/in/davide-chiffi/)
+![Mein Portfolio](https://davide-chiffi.dev)
 
 ## 💡 Interessiert an
 - Open Source Entwicklung
