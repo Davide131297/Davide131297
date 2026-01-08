@@ -13,9 +13,6 @@ Ich studiere Softwareentwicklung und bin ein leidenschaftlicher Entwickler mit F
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
 
-## GitHub Statistiken
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davide131297&show_icons=true) ![Davide131297's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davide131297&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 Meine Projekte
 - [Polittalk-Watcher](https://github.com/Davide131297/tv)
