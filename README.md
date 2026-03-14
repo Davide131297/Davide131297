@@ -27,7 +27,7 @@ Ich studiere Softwareentwicklung und bin ein leidenschaftlicher Entwickler mit F
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  [Mein Profil](https://www.linkedin.com/in/davide-chiffi/)
 
 ## Mein Portfolio
-![Hier geht`s zu meinem Portfolio](https://davide-chiffi.dev)
+[Hier geht`s zu meinem Portfolio](https://davide-chiffi.dev)
 
 ## 💡 Interessiert an
 - Open Source Entwicklung
