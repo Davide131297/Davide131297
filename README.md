@@ -18,7 +18,6 @@ Ich studiere Softwareentwicklung und bin ein leidenschaftlicher Entwickler mit F
 - [Polittalk-Watcher](https://github.com/Davide131297/tv)
 - [Pressemitteilungsportal](https://github.com/Davide131297/new-pressemitteilungen-next)
 - [Wetter Webseite](https://github.com/Davide131297/wetter-projekt)
-- [F1 Liga Verwaltungswebseite](https://github.com/Davide131297/ligabot-web)
 - [Java Webentwicklung mit JSF](https://github.com/Davide131297/Fallstudie_IPWA02-01)
 - [Radio App Projekt mit React Native](https://github.com/Davide131297/radio-app)
 
