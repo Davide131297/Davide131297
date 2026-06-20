@@ -18,6 +18,7 @@ Ich studiere Softwareentwicklung und bin ein leidenschaftlicher Entwickler mit F
 - [Polittalk-Watcher](https://github.com/Davide131297/tv)
 - [Pressemitteilungsportal](https://github.com/Davide131297/new-pressemitteilungen-next)
 - [Java Webentwicklung mit JSF](https://github.com/Davide131297/Fallstudie_IPWA02-01)
+- [3D-Druck Tagebuch](https://github.com/Davide131297/3d-printing-diary)
 - [Radio App Projekt mit React Native](https://github.com/Davide131297/radio-app)
 
 ## Kontakt
