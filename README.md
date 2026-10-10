@@ -15,6 +15,8 @@ Ich studiere Softwareentwicklung und bin ein leidenschaftlicher Entwickler mit F
 
 
 ## 🏆 Meine Projekte
+- [TV Politik Dashboard](https://polittalk-watcher.de)
+- [NFL Dashboard](https://nfl-live-de.vercel.app)
 - [Pressemitteilungsportal](https://github.com/Davide131297/new-pressemitteilungen-next)
 - [Java Webentwicklung mit JSF](https://github.com/Davide131297/Fallstudie_IPWA02-01)
 - [3D-Druck Tagebuch](https://github.com/Davide131297/3d-printing-diary)
